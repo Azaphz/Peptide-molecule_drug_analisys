@@ -7,7 +7,7 @@ Bioinformatics/CADD sandbox: peptide sequence analysis, PDB structure parsing, a
 - **Peptide sequence report** — molecular weight, amino acid composition, isoelectric point (via Biopython), Kyte-Doolittle hydropathy plot
 - **FASTA → RDKit** — builds a peptide `Mol` object directly from a one-letter sequence, extracts SMILES, cross-validates manual MW against RDKit's computed MW, draws the structure
 - **PDB structure analysis** — parses a real PDB file with MDAnalysis, extracts the sequence directly from structure, computes a CA-CA contact map
-- **Molecule property calculator** — Lipinski's Rule of Five checker for small-molecule drugs and peptides (SMILES → MW, LogP, H-bond donors/acceptors)
+- **Molecular Property Calculator** — calculates molecular descriptors and reports Lipinski Rule of Five criterion compliance for small molecules and peptides
 
 ## Stack
 
