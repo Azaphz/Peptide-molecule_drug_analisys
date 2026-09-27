@@ -15,7 +15,7 @@ Python, RDKit, MDAnalysis, Biopython, pandas, NumPy, Matplotlib
 
 ## Run it
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azaphz/Peptide-molecule_drug_analisys/blob/main/Sequence_Analisys.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azaphz/Peptide-molecule_drug_analisys/blob/main/Peptide-molecule_drug_analisys.ipynb)
 
 Or locally:
 \`\`\`
